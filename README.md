@@ -2351,7 +2351,8 @@ TODO
 * 《编程珠玑》[详情](https://www.coderxing.com/r.php?r=https://union-click.jd.com/jdc?d=I7jj9r) 
 
 #### 工具方面
-TODO
+
+* [JSON在线解析](https://www.json.cn/)
 
 #### 大数据方面
 
@@ -2405,6 +2406,7 @@ TODO
 * [GITC全球互联网技术大会](http://www.thegitc.com/)
 
 **活动发布平台:** 
+
 * [活动行](http://www.huodongxing.com/)
 
 ## 常用APP
@@ -2413,6 +2415,7 @@ TODO
 * [得到](https://www.igetget.com)
 
 ## 找工作
+
 * [Boss直聘](https://www.zhipin.com)
 * [拉勾网](https://www.lagou.com)
 * [猎聘](https://www.liepin.com)
@@ -2425,24 +2428,29 @@ TODO
 
 ## 代码托管
 
+* [Github](https://github.com)
 * [Coding](https://coding.net)
 * [码云](https://gitee.com/)
 
 ## 文件服务
-* 七牛
-* 又拍云
+
+* [阿里云](https://www.aliyun.com/product/oss)
+* [七牛云](https://www.qiniu.com/products/kodo)
+* [又拍云](https://www.upyun.com/products/file-storage)
 
 ## 综合云服务商
-* 阿里云
+
+* [阿里云](https://www.aliyun.com/activity)
 * [腾讯云](https://cloud.tencent.com/redirect.php?redirect=1012&cps_key=c2665015d90871c0cb20fef91b7afc3c)
-* 百度云
-* 新浪云
-* 金山云
+* [百度云](https://cloud.baidu.com/)
+* [新浪云](http://www.sinacloud.com)
+* [金山云](https://www.ksyun.com/)
 * [亚马逊云(AWS)](https://amazonaws-china.com/cn/)
 * [谷歌云](https://cloud.google.com/?hl=zh-cn)
 * [微软云](https://azure.microsoft.com/zh-cn/)
 
 ### VPS
+
 * [Linode](http://linode.com)
 * [DigitalOcean](https://www.digitalocean.com)
 * [Vultr](https://www.vultr.com/)
